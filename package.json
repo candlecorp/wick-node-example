@@ -1,0 +1,21 @@
+{
+  "name": "wick-node-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@candlecorp/wick": "^0.3.1",
+    "@msgpack/msgpack": "^3.0.0-beta2",
+    "rxjs": "^7.8.1",
+    "wasmrs-js": "^0.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10"
+  }
+}
